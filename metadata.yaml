@@ -1,0 +1,45 @@
+_repo: Verotchka-s-Tales_35036
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Artzybasheff, Boris
+    alias: Artsybashev, Boris Mikhailovich
+    birthdate: 1899
+    deathdate: 1965
+    gutenberg_agent_id: '37417'
+    url: http://www.gutenberg.org/2009/agents/37417
+  translator:
+    agent_name: Davidson, Ray
+    gutenberg_agent_id: '37418'
+    url: http://www.gutenberg.org/2009/agents/37418
+covers:
+- cover_type: archival
+  image_path: 35036-h/images/i_cover.png
+creator:
+  author:
+    agent_name: Mamin-Siberiak, D. N. (Dmitrii Narkisovich)
+    aliases:
+    - Mamin-Siberiak, Dmitrii Narkisovich
+    - Siberiak, Mamin
+    - Мамин-Сибиряк, Д. Н. (Дмитрий Наркисович)
+    - Mamin-Sibiryak, D.
+    birthdate: 1852
+    deathdate: 1912
+    gutenberg_agent_id: '37416'
+    url: http://www.gutenberg.org/2009/agents/37416
+description: ''
+gutenberg_issued: '2011-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35036'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales -- Russia'
+- !lcc 'PZ'
+- !lcsh 'Russia -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+title: Verotchka's Tales
+url: http://www.gutenberg.org/ebooks/35036
